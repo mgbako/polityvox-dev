@@ -1,0 +1,19 @@
+{
+  "name": "polityvox-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Mgbako John <jmgbako@gmail.com> (http://www.mgbakocentric.com)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
+}
